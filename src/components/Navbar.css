@@ -5,7 +5,7 @@
   }
   
   .navbar-brand {
-    color: #007bff !important; /* Blue accent */
+    color: #1a2b3d !important; /* Blue accent */
     font-weight: bold;
     border: none; 
   }
@@ -20,7 +20,7 @@
   }
   
   .navbar-toggler {
-    border-color: #007bff; /* Blue accent */
+    border-color: #1a3655; /* Blue accent */
   }
  
   

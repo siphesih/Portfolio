@@ -1,0 +1,36 @@
+.home-section {
+    width: 100%;
+    background-color: #28646e; /* Background color */
+    color: white;
+    padding: 5rem 0;
+    margin-left: 0; /* Ensure it's aligned with the left */
+  }
+  
+  .home-content {
+    max-width: 50%; /* Limit text width */
+    padding: 2rem;
+    margin-left: 0; /* Align text to the left */
+    text-align: left; /* Align text to the left */
+  }
+  
+  .home-section h1 {
+    font-weight: bold;
+    font-size: 3rem;
+  }
+  
+  .home-section p {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .home-section a {
+    color: #f39c12; /* Highlight color */
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+  }
+  
+  .home-section a:hover {
+    color: #ffcc00; /* Hover effect */
+  }
+  
